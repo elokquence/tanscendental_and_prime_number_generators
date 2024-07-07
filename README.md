@@ -1,4 +1,4 @@
-# metodes_numerics_II
+# Transcendental and Prime Number Generators
 
 This project is all about numerical methods to perform basic mathematical computations such us searching prime numbers and obtaining irrational numbers such as pi, e and the golden number. Everything this project contains is the material I myself developed during the numerical methods course (part II) on Universitat Autonoma de Barcelona Physics degree. In this project you will find the following:
 
